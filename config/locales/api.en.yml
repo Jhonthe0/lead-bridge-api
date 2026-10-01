@@ -1,0 +1,11 @@
+en:
+  api:
+    errors:
+      authentication_required: "Authentication is required"
+      invalid_token: "Authentication token is invalid"
+      invalid_registration_token: "Device registration token is invalid"
+      invalid_capture: "Capture payload is invalid"
+      invalid_request: "Request payload is invalid"
+      not_found: "Record was not found"
+      payload_too_large: "Request payload is too large"
+      unprocessable_entity: "Record could not be saved"

@@ -1,0 +1,16 @@
+/.bundle
+/.env
+/.env.*
+!/.env.example
+/config/credentials/*.key
+/config/master.key
+/coverage
+/log/*
+/storage/*
+/tmp/*
+/vendor/bundle
+
+!/log/.keep
+!/storage/.keep
+!/tmp/.keep
+!/tmp/pids/.keep
